@@ -1,0 +1,97 @@
+text,category
+my new card has not arrived yet,card_arrival
+how long until my card gets delivered,card_arrival
+i am still waiting for my debit card in the post,card_arrival
+when will my replacement card show up,card_arrival
+the card i ordered last week never came,card_arrival
+track the delivery of my new bank card,card_arrival
+my card is taking too long to arrive,card_arrival
+where is the card you posted to me,card_arrival
+has my card been shipped yet,card_arrival
+still no sign of my card after two weeks,card_arrival
+i expected my card days ago and it is not here,card_arrival
+what is the delivery time for a new card,card_arrival
+i lost my card yesterday,lost_or_stolen_card
+someone stole my wallet with my bank card inside,lost_or_stolen_card
+my card has gone missing and i need to block it,lost_or_stolen_card
+i think my card was stolen on the train,lost_or_stolen_card
+i cannot find my card anywhere,lost_or_stolen_card
+please freeze my card because i lost it,lost_or_stolen_card
+my debit card got stolen at the airport,lost_or_stolen_card
+what should i do if my card is lost,lost_or_stolen_card
+my purse was taken and the card was in it,lost_or_stolen_card
+i misplaced my credit card and need a new one,lost_or_stolen_card
+report a stolen card for me,lost_or_stolen_card
+my card disappeared from my bag,lost_or_stolen_card
+what exchange rate do you use for dollars,exchange_rate
+how much is one euro in pounds today,exchange_rate
+tell me the current currency conversion rate,exchange_rate
+which rate will you apply when i pay abroad,exchange_rate
+what is the rate for converting yen,exchange_rate
+where can i see the foreign exchange rates,exchange_rate
+is the exchange rate you offer the market rate,exchange_rate
+how do you calculate your currency rates,exchange_rate
+i want to know the rate between pounds and rupees,exchange_rate
+what is the going rate for swiss francs,exchange_rate
+check the exchange rate before i transfer money abroad,exchange_rate
+do you charge extra on top of the exchange rate,exchange_rate
+my pin is blocked after too many wrong tries,pin_blocked
+i entered the wrong pin three times and now it is locked,pin_blocked
+the atm says my pin has been blocked,pin_blocked
+how do i unblock my pin,pin_blocked
+my card pin is locked and i cannot withdraw cash,pin_blocked
+i got my pin wrong too often and the card is blocked,pin_blocked
+help me get my blocked pin working again,pin_blocked
+why is my pin suspended,pin_blocked
+pin retries exceeded and my card does not work,pin_blocked
+i need to reset a locked pin,pin_blocked
+the machine kept my card after wrong pin attempts,pin_blocked
+my pin got disabled after several errors,pin_blocked
+my top up did not go through,top_up_failed
+the money i added to my account failed,top_up_failed
+my top up keeps getting declined,top_up_failed
+i tried to add funds but the payment failed,top_up_failed
+why was my account top up rejected,top_up_failed
+top up failed and i was still charged,top_up_failed
+adding money by card does not work for me,top_up_failed
+i could not load money onto my account,top_up_failed
+my deposit by card was unsuccessful,top_up_failed
+the top up shows an error message,top_up_failed
+every time i top up it says failed,top_up_failed
+why can i not put money into my account,top_up_failed
+i was charged a fee for withdrawing cash,cash_withdrawal_charge
+why did the atm withdrawal cost me extra,cash_withdrawal_charge
+there is an unexpected charge on my cash withdrawal,cash_withdrawal_charge
+how much do you charge for taking out cash,cash_withdrawal_charge
+i see a fee for my atm transaction,cash_withdrawal_charge
+what are the fees for cash withdrawals abroad,cash_withdrawal_charge
+you took a fee when i withdrew money,cash_withdrawal_charge
+explain the charge on my atm withdrawal,cash_withdrawal_charge
+is there a limit before withdrawal fees apply,cash_withdrawal_charge
+i got charged for using a cash machine,cash_withdrawal_charge
+why is there a commission on my cash withdrawal,cash_withdrawal_charge
+withdrawing cash cost me more than i expected,cash_withdrawal_charge
+how can i change my pin number,change_pin
+i want to set a new pin for my card,change_pin
+what is the process to update my pin,change_pin
+can i choose a different pin,change_pin
+i would like to change the pin on my debit card,change_pin
+where do i change my card pin in the app,change_pin
+please help me modify my pin code,change_pin
+how do i pick a new four digit pin,change_pin
+i forgot my pin and want to replace it,change_pin
+steps to switch my pin to something new,change_pin
+is it possible to alter my pin at an atm,change_pin
+i need to create a different pin for my card,change_pin
+how do i verify my identity,verify_identity
+what documents do you need to prove who i am,verify_identity
+my identity check is still pending,verify_identity
+i uploaded my passport but it is not verified,verify_identity
+why do you need to confirm my identity,verify_identity
+how long does identity verification take,verify_identity
+i need help with the id verification step,verify_identity
+what proof of identity do you accept,verify_identity
+my selfie for verification was rejected,verify_identity
+i am stuck on the identity verification process,verify_identity
+can i verify my account with a driving licence,verify_identity
+the app keeps asking me to verify who i am,verify_identity

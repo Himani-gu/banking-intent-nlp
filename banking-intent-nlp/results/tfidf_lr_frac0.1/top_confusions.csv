@@ -1,0 +1,16 @@
+true,predicted,count
+verify_my_identity,why_verify_identity,19
+virtual_card_not_working,get_disposable_virtual_card,14
+virtual_card_not_working,getting_virtual_card,10
+edit_personal_details,change_pin,9
+card_delivery_estimate,order_physical_card,8
+pending_top_up,top_up_failed,8
+card_acceptance,card_not_working,8
+change_pin,get_physical_card,8
+lost_or_stolen_card,lost_or_stolen_phone,7
+lost_or_stolen_card,compromised_card,7
+declined_cash_withdrawal,wrong_amount_of_cash_received,7
+top_up_failed,top_up_reverted,7
+card_delivery_estimate,transfer_timing,6
+pin_blocked,get_physical_card,6
+top_up_by_bank_transfer_charge,transfer_fee_charged,6

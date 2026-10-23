@@ -1,0 +1,16 @@
+true,predicted,count
+top_up_failed,pending_top_up,9
+virtual_card_not_working,get_disposable_virtual_card,7
+virtual_card_not_working,getting_virtual_card,7
+why_verify_identity,verify_my_identity,6
+topping_up_by_card,top_up_reverted,6
+card_arrival,card_delivery_estimate,5
+exchange_rate,card_payment_wrong_exchange_rate,5
+pin_blocked,get_physical_card,5
+card_swallowed,declined_cash_withdrawal,5
+get_disposable_virtual_card,disposable_card_limits,5
+cash_withdrawal_charge,card_payment_fee_charged,5
+fiat_currency_support,supported_cards_and_currencies,4
+card_delivery_estimate,card_arrival,4
+pending_top_up,top_up_failed,4
+card_acceptance,card_not_working,4

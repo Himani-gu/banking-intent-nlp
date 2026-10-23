@@ -1,0 +1,14 @@
+# Core + dev dependencies (baseline, API, tests). Easiest: pip install -e ".[dev]"
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+matplotlib>=3.7
+fastapi>=0.110
+uvicorn>=0.27
+pydantic>=2.0
+pytest>=7.4
+httpx>=0.26
+
+# For the transformer (training + serving a fine-tuned model), also install:
+#   pip install -r requirements-nlp.txt

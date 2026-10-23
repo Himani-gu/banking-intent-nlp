@@ -1,0 +1,16 @@
+true,predicted,count
+virtual_card_not_working,get_disposable_virtual_card,5
+top_up_failed,top_up_reverted,5
+balance_not_updated_after_bank_transfer,transfer_not_received_by_recipient,5
+verify_my_identity,why_verify_identity,4
+card_arrival,card_delivery_estimate,3
+card_payment_wrong_exchange_rate,wrong_exchange_rate_for_cash_withdrawal,3
+fiat_currency_support,exchange_via_app,3
+pin_blocked,card_not_working,3
+pending_top_up,top_up_failed,3
+card_acceptance,card_not_working,3
+top_up_reverted,top_up_failed,3
+card_payment_not_recognised,compromised_card,3
+why_verify_identity,unable_to_verify_identity,3
+why_verify_identity,verify_my_identity,3
+unable_to_verify_identity,verify_my_identity,3
